@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr3c14d0&label=Page%20Visitors&color=0e75b6&style=flat" alt="pr3c14d0" /> </p>
 
-- 🔭 I’m currently working on [Exeon](https://github.com/PR3C14D0/Exeon)
+- 🔭 I’m currently working on [Aetherion](https://github.com/DravixStudios/Aetherion)
 
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/PR3C14D0)
 
