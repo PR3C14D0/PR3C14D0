@@ -1,6 +1,6 @@
 <h1>Preciado</h1>
 
-<img src='https://komarev.com/ghpvc/?username=PR3C14D0&color=blueviolet&label=Profile+views'>
+<img src='https://komarev.com/ghpvc/?username=PR3C14D0&color=blueviolet&label=Page+visitors'>
 
 ![PR3C14D0-stats](https://github-readme-stats.vercel.app/api?username=PR3C14D0&show_icons=true&theme=dark "Stats")
 
