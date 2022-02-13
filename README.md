@@ -7,11 +7,11 @@
 
 **Languages I know**
 
-<img style="width: 8%; height=8%" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg'/>
-<img style="width: 8%; height=8%" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg'/>
-<img style="width: 8%; height=8%" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'/>
-<img style="width: 8%; height=8%" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'/>
-<img style="width: 8%; height=8%" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'/>
-<img style="width: 8%; height=8%" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'/>
+<a><img style="width: 8%; height=8%" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg'/></a>
+<a><img style="width: 8%; height=8%" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg'/></a>
+<a><img style="width: 8%; height=8%" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'/></a>
+<a><img style="width: 8%; height=8%" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'/></a>
+<a><img style="width: 8%; height=8%" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'/></a>
+<a><img style="width: 8%; height=8%" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'/></a>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V65CIGY)
