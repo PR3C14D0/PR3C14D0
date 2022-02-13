@@ -1,5 +1,5 @@
 <h1>Preciado</h1>
-![Viewers](https://komarev.com/ghpvc/?username=PR3C14D0&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=PR3C14D0&color=blueviolet)
 
 ![PR3C14D0-stats](https://github-readme-stats.vercel.app/api?username=PR3C14D0&show_icons=true&theme=dark "Stats")
 
