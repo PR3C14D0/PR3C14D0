@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Marlborge Reloaded](https://github.com/PR3C14D0/Marlborge-Reloaded)
 
-- 👨‍💻 All of my projects are available at [https://github.com/PR3C14D0](https://github.com/PR3C14D0)
+- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/PR3C14D0)
 
 <p align="left">
 </p>
