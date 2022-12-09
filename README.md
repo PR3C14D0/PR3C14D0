@@ -25,4 +25,4 @@
 # Discord
 <br/>
 
-[Discord Presence](https://lanyard.cnrad.dev/api/981969441875169360)
+[![Discord Presence](https://lanyard.cnrad.dev/api/981969441875169360)](https://discord.com/users/981969441875169360)
