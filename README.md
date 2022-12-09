@@ -20,3 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr3c14d0&show_icons=true&theme=dark&locale=en&layout=compact" alt="pr3c14d0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr3c14d0&show_icons=true&theme=dark&locale=en" alt="pr3c14d0" /></p>
+<br/>
+# Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/981969441875169360)](https://discord.com/users/981969441875169360)
