@@ -20,6 +20,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr3c14d0&show_icons=true&theme=dark&locale=en&layout=compact" alt="pr3c14d0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr3c14d0&show_icons=true&theme=dark&locale=en" alt="pr3c14d0" /></p>
+
+# 🏆 Trophies 
+[![trophy](https://github-profile-trophy.vercel.app/?username=PR3C14D0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br/>
 
 # Discord
