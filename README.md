@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/PR3C14D0)
 
+- 🌐 Изучение Русского
+
 <p align="left">
 </p>
 
